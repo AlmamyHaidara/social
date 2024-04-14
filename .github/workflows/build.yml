@@ -1,8 +1,0 @@
-stages:
-  - build
-
-build_android:
-  stage: build
-  script:
-    - npm install --force
-    # Autres étapes de construction ici

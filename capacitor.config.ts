@@ -5,7 +5,7 @@ const config: CapacitorConfig = {
   appName: 'tailwick',
   webDir: './dist/tailwick/browser',
   server: {
-    androidScheme: 'http',
+    androidScheme: 'https',
   },
 };
 
